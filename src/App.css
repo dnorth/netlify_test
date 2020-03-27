@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.DCMATAKEDOWNBLUR {
+  filter: blur(12px);
+}
